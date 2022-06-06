@@ -1,0 +1,136 @@
+#boven
+{
+
+height:100px;
+
+background-color:#40E0D0;
+}
+table
+{
+  background-color: yellow;
+}
+body{
+  background-color: grey;
+}
+#beer
+{
+background-color: blue;
+width:100px;
+height:50px;
+font-size: 20px;
+color:white;
+text-align: center;
+}
+#fotobeer
+{
+width:100px;
+height:50px;
+}
+#tijger
+{
+background-color: green;
+width:100px;
+height:50px;
+font-size:20px;
+color:white;
+text-align: center;
+}
+#fototijger
+{
+  width: 100px;
+  height: 50px;
+}
+#aap
+{
+  background-color: black;
+  width:100px;
+  height:50px;
+  font-size: 20px;
+  color:white;
+  text-align: center;
+}
+#fotoaap
+{
+  width:100px;
+  height:50px;
+}
+#arend
+{
+  background-color: purple;
+  width:100px;
+  height:50px;
+  font-size:20px;
+  color:white;
+  text-align: center;
+}
+#fotoarend
+{
+  width:100px;
+  height:50px;
+}
+#poes
+{
+  background-color: grey;
+  width:100px;
+  height:50px;
+  font-size:20px;
+  color:white;
+  text-align: center;
+}
+#fotopoes
+{
+  width:100px;
+  height:50px;
+}
+#meeuw
+{
+  background-color: orange;
+  width:100px;
+  height:50px;
+  font-size:20px;
+  color:white;
+  text-align: center;
+}
+#fotomeeuw
+{
+  width:100px;
+  height:50px;
+}
+#hond
+{
+  background-color: red;
+  width:100px;
+  height:50px;
+  font-size:20px;
+  color:white;
+  text-align: center;
+}
+#fotohond
+{
+  width:100px;
+  height:50px;
+}
+#cavia
+{
+  background-color: pink;
+  width:100px;
+  height:50px;
+  font-size:20px;
+  color:white;
+  text-align: center;
+}
+#fotocavia
+{
+  width:100px;
+  height:50px;
+}
+
+
+
+
+
+#onder
+{
+height:150px;
+background-color:#B0C4DE;
+}
